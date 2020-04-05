@@ -9,5 +9,5 @@ include(APP_PATH . "/router.php");
 include(APP_PATH . "/controller/{$controller}Controller.php");
 
 //View
-
+print "q";
 include(APP_PATH . "/view/{$view}.php");
